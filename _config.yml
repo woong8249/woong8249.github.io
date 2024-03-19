@@ -41,7 +41,7 @@ goatcounter: ####??????????--------
 
   # ↑ not yet---------------------------------------------------------------------------------
 
-theme_mode: dark
+theme_mode: light
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
