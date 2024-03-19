@@ -28,7 +28,6 @@ social:
     - https://woong8249.github.io
 
   # ↓ not yet-------------------------------------------------------------------------
-logo: /assets/nodejsLogo.png ####??????????--------
 google_site_verification: # fill in to your verification string ####??????????--------
 
 # ↑ --------------------------
@@ -42,7 +41,7 @@ goatcounter: ####??????????--------
 
   # ↑ not yet---------------------------------------------------------------------------------
 
-theme_mode: light
+theme_mode: dark
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
@@ -52,7 +51,7 @@ theme_mode: light
 # img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: #####??????????--------
+avatar: assets/img/avatar.jpeg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
