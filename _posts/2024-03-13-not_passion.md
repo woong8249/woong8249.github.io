@@ -2,7 +2,6 @@
 title: 열정 말고 습관의 관성으로
 categories: [ETC,Diary]
 tags: [retrospect]
-img_path: ../assets/img
 toc: true
 image: onlyDoing.png 
 ---
