@@ -1,7 +1,7 @@
 ---
 title: "[NestJS | Docs] Overview-Modules"
 categories: [NestJS]
-tags: [NestJS,Module]
+tags: [NestJS]
 image: nestJSLogo.png
 ---
 
@@ -9,7 +9,7 @@ image: nestJSLogo.png
 
 ---
 
-![Desktop View](/2024-06-11-NestJS-OfficialDOC-OVERVIEW-Modules/module.png){: width="400"  }
+![Desktop View](/2024-06-11-NestJSDocs-Overview-Modules/module.png){: width="400"  }
 
 Nest에서 module이란 `@Module()` 데코레이터가 붙은 클래스를 말한다.<br>
 `@Module()` 데코레이터가 제공하는 metadata 사용해 nest는 어플리케이션의구조를 조직화한다.<br>
@@ -68,13 +68,13 @@ import { CatsModule } from './cats/cats.module';
 export class AppModule {}
 ```
 
-![Desktop View](/2024-06-11-NestJS-OfficialDOC-OVERVIEW-Modules/directory-structure.png){: width="400" }
+![Desktop View](/2024-06-11-NestJSDocs-Overview-Modules/directory-structure.png){: width="400" }
 
 ## Shared modules
 
 ---
 
-![Desktop View](/2024-06-11-NestJS-OfficialDOC-OVERVIEW-Modules/shared-module.png){: width="500" }
+![Desktop View](/2024-06-11-NestJSDocs-Overview-Modules/shared-module.png){: width="500" }
 
 `Nest`에서 모듈은 기본적으로 singleton이기에, <br>
 여러모듈에서 같은 프로바이더 인스턴스를 공유할 수 있다
