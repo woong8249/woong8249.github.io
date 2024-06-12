@@ -1,5 +1,5 @@
 ---
-title: "NestJS-OfficialDOC-Overview-Modules"
+title: "[NestJS | Docs] Overview-Modules"
 categories: [NestJS]
 tags: [NestJS,Module]
 image: nestJSLogo.png
