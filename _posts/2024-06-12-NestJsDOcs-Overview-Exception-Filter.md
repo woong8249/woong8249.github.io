@@ -1,20 +1,16 @@
 ---
-title: "[NestJS | Docs] Overview-Exception Filter"
+title: "[NestJS | Docs | Overview] Exception Filter"
 categories: [NestJS]
 tags: [NestJS]
 image: nestJSLogo.png
 ---
 
 
-## Exception filters
-
----
-
 Nest에는 어플리케이션에 걸쳐  다루어지지않은 모든 예외를 처리하는 **exceptions filter** 내장되어 있다.
 예외처리가 되지않으면 `exceptions filter`에서 이를 포착하고 사용자에게 적절한 응답을 보낸다.
 이는 `HttpException` type의 예외를 다루는 `built-in global exception filter`에 의해 수행된다.<br>
 예외가 인식되지 않는경우(`HttpException`이 아니거나 이를 상속하지 않은 class인경우 )
-`built-in exception filter` 는 아래와같은 default JSON response를 반환한다
+`built-in exception filter` 는 아래와같은 default JSON response를 반환한다.
 
 ```json
 {
@@ -29,7 +25,7 @@ Nest에는 어플리케이션에 걸쳐  다루어지지않은 모든 예외를 
 던져진 예외가 `statusCode`와 `message` 속성을 포함하면, 해당 예외는 제대로 처리되어 응답으로,
 인식되지 않은 예외는 기본적으로 `InternalServerErrorException`으로 처리된다.
 
-## Throwing standard exceptions
+## **Throwing standard exceptions**
 
 ---
 
@@ -102,7 +98,7 @@ Using the above, this is how the response would look:
 
 ```
 
-## Custom exceptions
+## **Custom exceptions**
 
 ---
 
@@ -119,7 +115,7 @@ export class ForbiddenException extends HttpException {
 }
 ```
 
-## Built-in HTTP exceptions
+## **Built-in HTTP exceptions**
 
 ---
 
@@ -164,7 +160,7 @@ Using the above, this is how the response would look:
 }
 ```
 
-## Exception filters
+## **Exception filters**
 
 ---
 
@@ -211,7 +207,7 @@ Let's look at the parameters of the `catch()` method.
 - 객체로, 요청(Request) 및 응답(Response) 객체에 접근할 수 있게 한다.
 - HTTP, 마이크로서비스, WebSocket 등 모든 실행 컨텍스트에서 작동한다.
 
-## Binding filters
+## **Binding filters**
 
 ---
 
@@ -367,7 +363,7 @@ You can add as many filters with this technique as needed; simply add each to th
 
     `provide: APP_FILTER`는 `HttpExceptionFilter` 클래스가 전역 필터로 사용될 수 있도록 설정하는 데 필요한 식별자를 제공하는 것이다.
 
-## Catch everything
+## **Catch everything**
 
 ---
 
@@ -574,7 +570,7 @@ When combining an exception filter that catches everything with a filter that is
     
     ```
 
-## Inheritance
+## **Inheritance**
 
 ---
 

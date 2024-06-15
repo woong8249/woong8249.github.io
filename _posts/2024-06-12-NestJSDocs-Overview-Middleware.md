@@ -1,5 +1,5 @@
 ---
-title: "[NestJS | Docs] Overview-middleware"
+title: "[NestJS | Docs | Overview] Middleware"
 categories: [NestJS]
 tags: [NestJS]
 image: nestJSLogo.png
