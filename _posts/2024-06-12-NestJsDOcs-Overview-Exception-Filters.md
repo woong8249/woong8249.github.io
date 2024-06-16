@@ -1,5 +1,5 @@
 ---
-title: "[NestJS | Docs | Overview] Exception Filter"
+title: "[NestJS | Docs | Overview] Exception Filters"
 categories: [NestJS]
 tags: [NestJS]
 image: nestJSLogo.png

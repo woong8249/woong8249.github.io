@@ -1,5 +1,5 @@
 ---
-title: "[NestJS | Docs | Overview] Provider"
+title: "[NestJS | Docs | Overview] Providers"
 categories: [NestJS]
 tags: [NestJS]
 image: nestJSLogo.png
