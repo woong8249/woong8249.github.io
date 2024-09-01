@@ -1,7 +1,7 @@
 ---
 title: "Sequential Yet Parallel: Enhancing Async Processing in Node.js"
-categories: [NodeJS]
-tags: [nodeJS,parallel]
+categories: [BackEnd,NodeJS]
+tags: [NodeJS]
 image: node_logo.png 
 ---
 

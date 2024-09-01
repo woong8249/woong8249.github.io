@@ -1,6 +1,6 @@
 ---
 title: "[NestJS | Docs | Overview] Providers"
-categories: [NestJS]
+categories: [BackEnd,NestJS]
 tags: [NestJS]
 image: nestJSLogo.png
 ---

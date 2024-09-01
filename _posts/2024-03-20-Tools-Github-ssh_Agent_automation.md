@@ -1,7 +1,7 @@
 ---
 title: SSH Agent automation in Github
-categories: [Github]
-tags: [ssh-agent,automation]
+categories: [Tools,Github]
+tags: [Github,SSH,Automation]
 toc: true
 image: /ssh.webp
 ---

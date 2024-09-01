@@ -1,6 +1,6 @@
 ---
 title: "[NestJS | Docs | Fundamental] Custom providers"
-categories: [NestJS]
+categories: [BackEnd,NestJS]
 tags: [NestJS]
 image: nestJSLogo.png
 ---

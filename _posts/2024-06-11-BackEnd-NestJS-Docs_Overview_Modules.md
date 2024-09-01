@@ -1,6 +1,6 @@
 ---
 title: "[NestJS | Docs | Overview] Modules"
-categories: [NestJS]
+categories: [BackEnd,NestJS]
 tags: [NestJS]
 image: nestJSLogo.png
 ---
