@@ -8,7 +8,7 @@ This blog write the experiences gained while addressing and solving the followin
 - What is the goal?
 - What are the requirements?
 
-## [jekyll-theme-chirpy](https://chirpy.cotes.page/, "jekyll-theme-chirpy link")
+## [jekyll-theme-chirpy](https://chirpy.cotes.page, "jekyll-theme-chirpy link")
 
 ### Running Local Server
 
