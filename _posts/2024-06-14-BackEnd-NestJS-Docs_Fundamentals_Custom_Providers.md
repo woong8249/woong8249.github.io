@@ -29,7 +29,7 @@ So far, we've only explored one main pattern(Constructor based). As your applica
     }
     ```
 
-2. Nest가 `provider(Catservice`)를 `Controller class`에 주입하기를 요청한다.(constructor)
+2. Nest가 `provider(Catservice)`를 `Controller class`에 주입하기를 요청한다.(constructor)
 
     ```tsx
     // cat.controller.ts
