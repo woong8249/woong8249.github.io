@@ -107,7 +107,7 @@ However, there are ways to make your provider lifetime **request-scoped** as w
 ---
 
 nest는 프로바이더간 관계를 해결해주는 빌트인IOC(inversion of control)를 가지고있다. <br>
-정의하는 다양한 방법이 있다.[**Custom Provider**](/posts/NestJSDocs-Fundamentals-Custom-Providers/)
+정의하는 다양한 방법이 있다.[**Custom Provider**](/posts/BackEnd-NestJS-Docs_Fundamentals_Custom_Providers/)
 
 ## **Optional providers**
 
