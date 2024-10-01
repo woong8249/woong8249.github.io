@@ -1,7 +1,7 @@
 ---
 title: "[NestJS | Docs | Overview] Pipes"
 categories: [BackEnd,NestJS]
-tags: [NestJS]
+tags: [nest-js]
 image: nestJSLogo.png
 ---
 

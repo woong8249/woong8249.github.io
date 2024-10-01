@@ -1,7 +1,7 @@
 ---
 title: "[NestJS | Docs | Fundamental] Custom providers"
 categories: [BackEnd,NestJS]
-tags: [NestJS]
+tags: [nest-js]
 image: nestJSLogo.png
 ---
 So far, we've only explored one main pattern(Constructor based). As your application grows more complex, you may need to take advantage of the full features of the DI system, so let's explore them in more detail.

@@ -1,10 +1,10 @@
 ---
 title: "Project | trackVStrack Overview"
 categories: [Projects,tackVStrack]
-tags: [ChartKing]
+image: trackVStrack.png
 ---
 
-> 프로젝트 기간: 2024년 7월 초에 시작하여 계속 진행 중입니다.
+> 프로젝트 기간: 2024년 6월 초에 시작하여 계속 진행 중입니다.
 
 ## 무엇을 만들 것인가?
 

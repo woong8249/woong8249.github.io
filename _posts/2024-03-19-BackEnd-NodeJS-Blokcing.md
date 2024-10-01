@@ -1,7 +1,7 @@
 ---
 title: blokcing과 Sync는 결국 같은거 아니야?
 categories: [BackEnd,NodeJS]
-tags: [NodeJS]
+tags: [node-js]
 toc: true
 image: /blocking.png 
 ---
