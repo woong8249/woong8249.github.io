@@ -60,18 +60,18 @@ image: trackVStrack.png
 
 ### BackEnd
 
-- [x] Configure data automatic crawling environment =>  6월중~ 7월
-- [x] Review Express & Learn NextJS  => 6월중~ 7월
-- [x] Review SQL Database & Learn TypeORM => 6월중~ 7월
+- [x] Configure data automatic crawling environment 
+- [x] Review Express & Learn NextJS  
+- [x] Review SQL Database & Learn TypeORM 
 
 ### FrontEnd
 
-- [x] Learn React => 8월
-- [x] Learn Vite  => 8월
-- [x] review CSS basic => 8월
-- [ ] Learn Tailwind => 8월
+- [x] Learn React 
+- [x] Learn Vite  
+- [x] review CSS basic 
+- [x] Learn Tailwind 
 
 ### Develop & Deploy
 
-- [ ] develop main feature => 9월~10월초
-- [ ] 1st Deploy => 10월초
+- [ ] develop main feature 
+- [ ] 1st Deploy 
